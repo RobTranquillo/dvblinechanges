@@ -4,7 +4,7 @@ dvblinechanges
 DVB Line Changes - get all timetable changes from Dresdner Verkehrsbetriebe via json
 
 
-Author: rob.tranquillo@gmx.de
+Author: rob.tranquillo
 For the OK-Lab Dresden (www.codefor.de/dresden) group and www.offenesdresden.de
 
 
